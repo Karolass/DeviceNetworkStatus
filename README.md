@@ -4,3 +4,9 @@ Visual Studio 2008 SP1
 .NET Framework 3.5
 
 Ping Device to check if alive or not
+
+
+## Program screenshot
+
+(Images/home.png)
+(Images/outside.png)
