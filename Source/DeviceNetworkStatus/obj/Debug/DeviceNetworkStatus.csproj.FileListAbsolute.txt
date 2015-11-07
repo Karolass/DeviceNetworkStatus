@@ -1,0 +1,9 @@
+C:\工作用資料夾\UI\其他工具\網路測試\NetworkApp\DeviceNetworkStatus\obj\Debug\ResolveAssemblyReference.cache
+C:\工作用資料夾\UI\其他工具\網路測試\NetworkApp\DeviceNetworkStatus\obj\Debug\DeviceNetworkStatus.Modules.Device.resources
+C:\工作用資料夾\UI\其他工具\網路測試\NetworkApp\DeviceNetworkStatus\obj\Debug\DeviceNetworkStatus.Properties.Resources.resources
+C:\工作用資料夾\UI\其他工具\網路測試\NetworkApp\DeviceNetworkStatus\obj\Debug\DeviceNetworkStatus.csproj.GenerateResource.Cache
+C:\工作用資料夾\UI\其他工具\網路測試\NetworkApp\DeviceNetworkStatus\bin\Debug\DeviceNetworkStatus.exe
+C:\工作用資料夾\UI\其他工具\網路測試\NetworkApp\DeviceNetworkStatus\bin\Debug\DeviceNetworkStatus.pdb
+C:\工作用資料夾\UI\其他工具\網路測試\NetworkApp\DeviceNetworkStatus\obj\Debug\DeviceNetworkStatus.exe
+C:\工作用資料夾\UI\其他工具\網路測試\NetworkApp\DeviceNetworkStatus\obj\Debug\DeviceNetworkStatus.pdb
+C:\工作用資料夾\UI\其他工具\網路測試\NetworkApp\DeviceNetworkStatus\obj\Debug\DeviceNetworkStatus.Form1.resources

@@ -1,0 +1,37 @@
+C:\工作用資料夾\UI\其他工具\網路測試\NetworkApp\DeviceNetworkStatus\bin\x86\Debug\DeviceNetworkStatus.exe
+C:\工作用資料夾\UI\其他工具\網路測試\NetworkApp\DeviceNetworkStatus\bin\x86\Debug\DeviceNetworkStatus.pdb
+C:\工作用資料夾\UI\其他工具\網路測試\NetworkApp\DeviceNetworkStatus\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\工作用資料夾\UI\其他工具\網路測試\NetworkApp\DeviceNetworkStatus\obj\x86\Debug\DeviceNetworkStatus.Modules.Device.resources
+C:\工作用資料夾\UI\其他工具\網路測試\NetworkApp\DeviceNetworkStatus\obj\x86\Debug\DeviceNetworkStatus.Properties.Resources.resources
+C:\工作用資料夾\UI\其他工具\網路測試\NetworkApp\DeviceNetworkStatus\obj\x86\Debug\DeviceNetworkStatus.csproj.GenerateResource.Cache
+C:\工作用資料夾\UI\其他工具\網路測試\NetworkApp\DeviceNetworkStatus\obj\x86\Debug\DeviceNetworkStatus.exe
+C:\工作用資料夾\UI\其他工具\網路測試\NetworkApp\DeviceNetworkStatus\obj\x86\Debug\DeviceNetworkStatus.pdb
+C:\工作用資料夾\UI\其他工具\網路測試\NetworkApp\DeviceNetworkStatus\obj\x86\Debug\DeviceNetworkStatus.Fm_Main.resources
+C:\工作用資料夾\AutoCAD 相關\麥寮李乾元案\NetworkApp\DeviceNetworkStatus\bin\x86\Debug\config.ini
+C:\工作用資料夾\AutoCAD 相關\麥寮李乾元案\NetworkApp\DeviceNetworkStatus\bin\x86\Debug\DeviceNetworkStatus.exe
+C:\工作用資料夾\AutoCAD 相關\麥寮李乾元案\NetworkApp\DeviceNetworkStatus\bin\x86\Debug\DeviceNetworkStatus.pdb
+C:\工作用資料夾\AutoCAD 相關\麥寮李乾元案\NetworkApp\DeviceNetworkStatus\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\工作用資料夾\AutoCAD 相關\麥寮李乾元案\NetworkApp\DeviceNetworkStatus\obj\x86\Debug\DeviceNetworkStatus.Fm_Main.resources
+C:\工作用資料夾\AutoCAD 相關\麥寮李乾元案\NetworkApp\DeviceNetworkStatus\obj\x86\Debug\DeviceNetworkStatus.Form1.resources
+C:\工作用資料夾\AutoCAD 相關\麥寮李乾元案\NetworkApp\DeviceNetworkStatus\obj\x86\Debug\DeviceNetworkStatus.Modules.Device.resources
+C:\工作用資料夾\AutoCAD 相關\麥寮李乾元案\NetworkApp\DeviceNetworkStatus\obj\x86\Debug\DeviceNetworkStatus.Modules.Device_V2.resources
+C:\工作用資料夾\AutoCAD 相關\麥寮李乾元案\NetworkApp\DeviceNetworkStatus\obj\x86\Debug\DeviceNetworkStatus.Properties.Resources.resources
+C:\工作用資料夾\AutoCAD 相關\麥寮李乾元案\NetworkApp\DeviceNetworkStatus\obj\x86\Debug\DeviceNetworkStatus.Form2.resources
+C:\工作用資料夾\AutoCAD 相關\麥寮李乾元案\NetworkApp\DeviceNetworkStatus\obj\x86\Debug\DeviceNetworkStatus.csproj.GenerateResource.Cache
+C:\工作用資料夾\AutoCAD 相關\麥寮李乾元案\NetworkApp\DeviceNetworkStatus\obj\x86\Debug\DeviceNetworkStatus.exe
+C:\工作用資料夾\AutoCAD 相關\麥寮李乾元案\NetworkApp\DeviceNetworkStatus\obj\x86\Debug\DeviceNetworkStatus.pdb
+C:\工作用資料夾\UI\其他工具\網路測試\NetworkApp_v2\DeviceNetworkStatus\obj\x86\Debug\DeviceNetworkStatus.exe
+C:\工作用資料夾\UI\其他工具\網路測試\NetworkApp_v2\DeviceNetworkStatus\obj\x86\Debug\DeviceNetworkStatus.pdb
+C:\工作用資料夾\UI\其他工具\網路測試\NetworkApp_v2\DeviceNetworkStatus\bin\x86\Debug\config.ini
+C:\工作用資料夾\UI\其他工具\網路測試\NetworkApp_v2\DeviceNetworkStatus\bin\x86\Debug\DeviceNetworkStatus.exe
+C:\工作用資料夾\UI\其他工具\網路測試\NetworkApp_v2\DeviceNetworkStatus\bin\x86\Debug\DeviceNetworkStatus.pdb
+C:\工作用資料夾\UI\其他工具\網路測試\NetworkApp_v2\DeviceNetworkStatus\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\工作用資料夾\UI\其他工具\網路測試\NetworkApp_v2\DeviceNetworkStatus\obj\x86\Debug\DeviceNetworkStatus.Fm_Main.resources
+C:\工作用資料夾\UI\其他工具\網路測試\NetworkApp_v2\DeviceNetworkStatus\obj\x86\Debug\DeviceNetworkStatus.Form1.resources
+C:\工作用資料夾\UI\其他工具\網路測試\NetworkApp_v2\DeviceNetworkStatus\obj\x86\Debug\DeviceNetworkStatus.Modules.Device.resources
+C:\工作用資料夾\UI\其他工具\網路測試\NetworkApp_v2\DeviceNetworkStatus\obj\x86\Debug\DeviceNetworkStatus.Modules.Device_V2.resources
+C:\工作用資料夾\UI\其他工具\網路測試\NetworkApp_v2\DeviceNetworkStatus\obj\x86\Debug\DeviceNetworkStatus.Properties.Resources.resources
+C:\工作用資料夾\UI\其他工具\網路測試\NetworkApp_v2\DeviceNetworkStatus\obj\x86\Debug\DeviceNetworkStatus.Form2.resources
+C:\工作用資料夾\UI\其他工具\網路測試\NetworkApp_v2\DeviceNetworkStatus\obj\x86\Debug\DeviceNetworkStatus.csproj.GenerateResource.Cache
+C:\工作用資料夾\UI\其他工具\網路測試\NetworkApp\DeviceNetworkStatus\bin\x86\Debug\config.ini
+C:\工作用資料夾\UI\其他工具\網路測試\NetworkApp\DeviceNetworkStatus\obj\x86\Debug\DeviceNetworkStatus.Fm_Child.resources
