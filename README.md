@@ -8,5 +8,6 @@ Ping Device to check if alive or not
 
 ## Program screenshot
 
-(Images/home.png)
-(Images/outside.png)
+(/Images/home.png)
+
+(/Images/outside.png)
