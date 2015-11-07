@@ -1,0 +1,2 @@
+# DeviceNetworkStatus
+Ping Device
